@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d591cf4b-2943-4657-8a9b-d342f0102e1a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/forms.py" afterPath="$PROJECT_DIR$/blog/forms.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +16,8 @@
       <file leaf-file-name="forms.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="24" column="83" lean-forward="false" selection-start-line="24" selection-start-column="83" selection-end-line="24" selection-end-column="83" />
+            <state relative-caret-position="101">
+              <caret line="23" column="73" lean-forward="true" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -154,6 +151,14 @@
       <option name="presentableId" value="Default" />
       <updated>1526457137532</updated>
     </task>
+    <task id="LOCAL-00001" summary="'forms.py' was updated.">
+      <created>1526460256284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526460256284</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -187,6 +192,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="'forms.py' was updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="'forms.py' was updated." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -204,8 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="24" column="83" lean-forward="false" selection-start-line="24" selection-start-column="83" selection-end-line="24" selection-end-column="83" />
+        <state relative-caret-position="101">
+          <caret line="23" column="73" lean-forward="true" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
